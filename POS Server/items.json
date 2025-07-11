@@ -1,0 +1,134 @@
+[
+  {
+    "item_id": "re",
+    "name": "refresh",
+    "price": 0,
+    "stock": 9997
+  },
+  {
+    "item_id": "free",
+    "name": "free",
+    "price": 0,
+    "stock": 1
+  },
+  {
+    "item_id": "0001",
+    "name": "keyboard",
+    "price": 25,
+    "stock": 1
+  },
+  {
+    "item_id": "0002",
+    "name": "16x2 LCD",
+    "price": 4,
+    "stock": 1
+  },
+  {
+    "item_id": "0003",
+    "name": "USB-C charging brick",
+    "price": 7,
+    "stock": 1
+  },
+  {
+    "item_id": "0004",
+    "name": "Lego mug",
+    "price": 7,
+    "stock": 1
+  },
+  {
+    "item_id": "0006",
+    "name": "ice pack",
+    "price": 15,
+    "stock": 1
+  },
+  {
+    "item_id": "0007",
+    "name": "Playstation controler",
+    "price": 7,
+    "stock": 1
+  },
+  {
+    "item_id": "0008",
+    "name": "pen",
+    "price": 15,
+    "stock": 1
+  },
+  {
+    "item_id": "0009",
+    "name": "rc car",
+    "price": 80,
+    "stock": 1
+  },
+  {
+    "item_id": "0010",
+    "name": "logitech keyboard",
+    "price": 80,
+    "stock": 1
+  },
+  {
+    "item_id": "0011",
+    "name": "build box",
+    "price": 80,
+    "stock": 1
+  },
+  {
+    "item_id": "0012",
+    "name": "eletric drum kit",
+    "price": 180,
+    "stock": 1
+  },
+  {
+    "item_id": "0013",
+    "name": "soldering iron",
+    "price": 0.5,
+    "stock": 1
+  },
+  {
+    "item_id": "0014",
+    "name": "nentendo switch",
+    "price": 150,
+    "stock": 1
+  },
+  {
+    "item_id": "0015",
+    "name": "nerf disruptor",
+    "price": 150,
+    "stock": 2
+  },
+  {
+    "item_id": "0016",
+    "name": "Button manafold",
+    "price": 70,
+    "stock": 1
+  },
+  {
+    "item_id": "0017",
+    "name": "vac filter",
+    "price": 10,
+    "stock": 1
+  },
+  {
+    "item_id": "0018",
+    "name": "fire alarm system",
+    "price": 150,
+    "stock": 1
+  },
+  {
+    "item_id": "0019",
+    "name": "arduino mega 2560",
+    "price": 150,
+    "stock": 1
+  },
+  {
+    "item_id": "0020",
+    "name": "3d printed mug",
+    "price": 150,
+    "stock": 0
+  },
+  {
+    "item_id": "0021",
+    "name": "candy",
+    "price": 10,
+    "stock": 1
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "CC001": {
+    "credit_card_number": "3513",
+    "name": "red",
+    "balance": 1000
+  },
+  "CC002": {
+    "credit_card_number": "1720",
+    "name": "blue",
+    "balance": 9420
+  },
+  "CC003": {
+    "credit_card_number": "4647",
+    "name": "purple",
+    "balance": 850
+  },
+  "CC999": {
+    "credit_card_number": "9999",
+    "name": "free money",
+    "balance": 99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999998000000000001
+  },
+  "CC004": {
+    "credit_card_number": "7812",
+    "name": "ben",
+    "balance": 1000
+  }
+}
